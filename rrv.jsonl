@@ -1,0 +1,50 @@
+{"_meta":true,"version":"2026-06","count":49,"checksum":"6c878999"}
+{"programId":"flex:chase-ur","cpp":1.5,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"flex:amex-mr","cpp":1.5,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"flex:citi-ty","cpp":1.5,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"flex:cap1","cpp":1.45,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:aeroplan","cpp":1.4,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:flying-blue","cpp":1.3,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:aa","cpp":1.4,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:avianca","cpp":1.3,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:ba-avios","cpp":1.1,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:cathay","cpp":1.1,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:delta","cpp":1.1,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:jetblue","cpp":1.3,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:southwest","cpp":1.3,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:united","cpp":1.3,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"airline:virgin-atl","cpp":1.5,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:hilton","cpp":0.41,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:ihg","cpp":0.59,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:marriott","cpp":0.77,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:hyatt","cpp":1.7,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:wyndham","cpp":0.67,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:hilton","cpp":523,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:hyatt","cpp":204,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:hyatt","cpp":408,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:marriott","cpp":202,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:marriott","cpp":289,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"hotel:marriott","cpp":419,"sourceId":"frequentmiler","source":"FrequentMiler","sourceUrl":"https://frequentmiler.com/reasonable-redemption-values-rrvs/","asOf":"2026-06"}
+{"programId":"flex:amex-mr","cpp":2,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"flex:chase-ur","cpp":2.05,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"flex:citi-ty","cpp":1.9,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:aeroplan","cpp":1.4,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:alaska","cpp":1.4,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:aa","cpp":1.6,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:ana","cpp":1.4,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:avianca","cpp":1.4,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:cathay","cpp":1.3,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:delta","cpp":1.2,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:emirates","cpp":1.2,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:flying-blue","cpp":1.3,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:jetblue","cpp":1.35,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:singapore","cpp":1.3,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:southwest","cpp":1.25,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:turkish","cpp":1.1,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:united","cpp":1.35,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"airline:virgin-atl","cpp":1.3,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"hotel:hilton","cpp":0.4,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"hotel:ihg","cpp":0.6,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"hotel:marriott","cpp":0.8,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"hotel:hyatt","cpp":1.65,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}
+{"programId":"hotel:wyndham","cpp":0.65,"sourceId":"tpg","source":"The Points Guy","sourceUrl":"https://thepointsguy.com/guide/monthly-valuations/","asOf":"2026-06"}

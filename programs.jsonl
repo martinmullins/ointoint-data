@@ -1,0 +1,77 @@
+{"_meta":true,"version":"2026-06-01","count":76,"checksum":"517386a1"}
+{"id":"flex:chase-ur","name":"Chase Ultimate Rewards","shortName":"Chase UR","category":"flex","trackable":true,"baselineCpp":2.05}
+{"id":"flex:amex-mr","name":"Amex Membership Rewards","shortName":"Amex MR","category":"flex","trackable":true,"baselineCpp":2}
+{"id":"flex:citi-ty","name":"Citi ThankYou Points","shortName":"Citi TY","category":"flex","trackable":true,"baselineCpp":1.9}
+{"id":"flex:cap1","name":"Capital One Miles","shortName":"Capital One","category":"flex","trackable":true,"baselineCpp":1.85}
+{"id":"flex:bilt","name":"Bilt Points","shortName":"Bilt","category":"flex","trackable":true,"baselineCpp":2.2}
+{"id":"airline:aeroplan","name":"Air Canada Aeroplan","shortName":"Aeroplan","category":"airline","trackable":true,"baselineCpp":1.6}
+{"id":"airline:united","name":"United MileagePlus","shortName":"United","category":"airline","trackable":true,"baselineCpp":1.5,"url":"https://www.united.com/"}
+{"id":"airline:delta","name":"Delta SkyMiles","shortName":"Delta","category":"airline","trackable":true,"baselineCpp":1.3,"url":"https://www.delta.com/"}
+{"id":"airline:aa","name":"American AAdvantage","shortName":"AAdvantage","category":"airline","trackable":true,"baselineCpp":1.7,"url":"https://www.aa.com/"}
+{"id":"airline:alaska","name":"Alaska Mileage Plan","shortName":"Alaska","category":"airline","trackable":true,"baselineCpp":1.6,"url":"https://www.alaskaair.com/"}
+{"id":"airline:ba-avios","name":"British Airways Avios","shortName":"BA Avios","category":"airline","trackable":true,"baselineCpp":1.4}
+{"id":"airline:flying-blue","name":"Air France/KLM Flying Blue","shortName":"Flying Blue","category":"airline","trackable":true,"baselineCpp":1.2}
+{"id":"airline:southwest","name":"Southwest Rapid Rewards","shortName":"Southwest","category":"airline","trackable":true,"baselineCpp":1.3}
+{"id":"airline:virgin-atl","name":"Virgin Atlantic Flying Club","shortName":"Virgin Atl.","category":"airline","trackable":true,"baselineCpp":1.4}
+{"id":"airline:singapore","name":"Singapore KrisFlyer","shortName":"KrisFlyer","category":"airline","trackable":true,"baselineCpp":1.5}
+{"id":"airline:emirates","name":"Emirates Skywards","shortName":"Emirates","category":"airline","trackable":true,"baselineCpp":1.4}
+{"id":"airline:jetblue","name":"JetBlue TrueBlue","shortName":"JetBlue","category":"airline","trackable":true,"baselineCpp":1.3}
+{"id":"airline:turkish","name":"Turkish Miles&Smiles","shortName":"Turkish","category":"airline","trackable":true,"baselineCpp":1.5}
+{"id":"airline:ana","name":"ANA Mileage Club","shortName":"ANA","category":"airline","trackable":true,"baselineCpp":1.6}
+{"id":"airline:cathay","name":"Cathay Pacific Asia Miles","shortName":"Cathay","category":"airline","trackable":true,"baselineCpp":1.4}
+{"id":"airline:avianca","name":"Avianca LifeMiles","shortName":"LifeMiles","category":"airline","trackable":true,"baselineCpp":1.5}
+{"id":"hotel:hyatt","name":"World of Hyatt","shortName":"Hyatt","category":"hotel","trackable":true,"baselineCpp":1.9}
+{"id":"hotel:marriott","name":"Marriott Bonvoy","shortName":"Marriott","category":"hotel","trackable":true,"baselineCpp":0.75}
+{"id":"hotel:hilton","name":"Hilton Honors","shortName":"Hilton","category":"hotel","trackable":true,"baselineCpp":0.5}
+{"id":"hotel:ihg","name":"IHG One Rewards","shortName":"IHG","category":"hotel","trackable":true,"baselineCpp":0.5}
+{"id":"hotel:wyndham","name":"Wyndham Rewards","shortName":"Wyndham","category":"hotel","trackable":true,"baselineCpp":1.1}
+{"id":"card:chase-sapphire-preferred","name":"Chase Sapphire Preferred","shortName":"Chase Sapphire Preferred","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:chase-sapphire-reserve","name":"Chase Sapphire Reserve","shortName":"Chase Sapphire Reserve","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:chase-freedom-unlimited","name":"Chase Freedom Unlimited","shortName":"Chase Freedom Unlimited","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:chase-freedom-flex","name":"Chase Freedom Flex","shortName":"Chase Freedom Flex","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Mastercard","cardColor":"#1a3a6b"}
+{"id":"card:chase-ink-preferred","name":"Chase Ink Business Preferred","shortName":"Chase Ink Business Preferred","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:chase-ink-cash","name":"Chase Ink Business Cash","shortName":"Chase Ink Business Cash","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:chase-united-explorer","name":"Chase United Explorer","shortName":"Chase United Explorer","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:chase-hyatt","name":"Chase World of Hyatt","shortName":"Chase World of Hyatt","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:chase-marriott-boundless","name":"Chase Marriott Bonvoy Boundless","shortName":"Chase Marriott Bonvoy Boundless","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:chase-british-airways","name":"Chase British Airways Visa","shortName":"Chase British Airways Visa","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:amex-platinum","name":"Amex Platinum","shortName":"Amex Platinum","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#b0b0b0"}
+{"id":"card:amex-gold","name":"Amex Gold","shortName":"Amex Gold","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#c9a84c"}
+{"id":"card:amex-green","name":"Amex Green","shortName":"Amex Green","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#2e7d52"}
+{"id":"card:amex-blue-cash-preferred","name":"Amex Blue Cash Preferred","shortName":"Amex Blue Cash Preferred","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#0064a9"}
+{"id":"card:amex-blue-cash-everyday","name":"Amex Blue Cash Everyday","shortName":"Amex Blue Cash Everyday","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#0064a9"}
+{"id":"card:amex-delta-gold","name":"Amex Delta SkyMiles Gold","shortName":"Amex Delta SkyMiles Gold","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#c9a84c"}
+{"id":"card:amex-delta-platinum","name":"Amex Delta SkyMiles Platinum","shortName":"Amex Delta SkyMiles Platinum","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#b0b0b0"}
+{"id":"card:amex-delta-reserve","name":"Amex Delta SkyMiles Reserve","shortName":"Amex Delta SkyMiles Reserve","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#1c1c1c"}
+{"id":"card:amex-hilton-honors","name":"Amex Hilton Honors","shortName":"Amex Hilton Honors","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#1a3a6b"}
+{"id":"card:amex-hilton-aspire","name":"Amex Hilton Honors Aspire","shortName":"Amex Hilton Honors Aspire","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#c9a84c"}
+{"id":"card:amex-marriott-brilliant","name":"Amex Marriott Bonvoy Brilliant","shortName":"Amex Marriott Bonvoy Brilliant","category":"card","trackable":true,"issuer":"American Express","issuerDomain":"americanexpress.com","network":"Amex","cardColor":"#8b1a1a"}
+{"id":"card:citi-strata-premier","name":"Citi Strata Premier","shortName":"Citi Strata Premier","category":"card","trackable":true,"issuer":"Citi","issuerDomain":"citi.com","network":"Mastercard","cardColor":"#003087"}
+{"id":"card:citi-double-cash","name":"Citi Double Cash","shortName":"Citi Double Cash","category":"card","trackable":true,"issuer":"Citi","issuerDomain":"citi.com","network":"Mastercard","cardColor":"#003087"}
+{"id":"card:citi-custom-cash","name":"Citi Custom Cash","shortName":"Citi Custom Cash","category":"card","trackable":true,"issuer":"Citi","issuerDomain":"citi.com","network":"Mastercard","cardColor":"#003087"}
+{"id":"card:citi-aadvantage-platinum","name":"Citi AAdvantage Platinum Select","shortName":"Citi AAdvantage Platinum Select","category":"card","trackable":true,"issuer":"Citi","issuerDomain":"citi.com","network":"Mastercard","cardColor":"#003087"}
+{"id":"card:citi-aadvantage-executive","name":"Citi AAdvantage Executive","shortName":"Citi AAdvantage Executive","category":"card","trackable":true,"issuer":"Citi","issuerDomain":"citi.com","network":"Mastercard","cardColor":"#1c1c1c"}
+{"id":"card:citi-aadvantage-mileup","name":"Citi AAdvantage MileUp","shortName":"Citi AAdvantage MileUp","category":"card","trackable":true,"issuer":"Citi","issuerDomain":"citi.com","network":"Mastercard","cardColor":"#003087"}
+{"id":"card:cap1-venture-x","name":"Capital One Venture X","shortName":"Capital One Venture X","category":"card","trackable":true,"issuer":"Capital One","issuerDomain":"capitalone.com","network":"Visa","cardColor":"#1c1c1c"}
+{"id":"card:cap1-venture","name":"Capital One Venture","shortName":"Capital One Venture","category":"card","trackable":true,"issuer":"Capital One","issuerDomain":"capitalone.com","network":"Visa","cardColor":"#8b1a1a"}
+{"id":"card:cap1-ventureone","name":"Capital One VentureOne","shortName":"Capital One VentureOne","category":"card","trackable":true,"issuer":"Capital One","issuerDomain":"capitalone.com","network":"Visa","cardColor":"#8b1a1a"}
+{"id":"card:cap1-savor","name":"Capital One Savor","shortName":"Capital One Savor","category":"card","trackable":true,"issuer":"Capital One","issuerDomain":"capitalone.com","network":"Mastercard","cardColor":"#1c1c1c"}
+{"id":"card:cap1-savorone","name":"Capital One SavorOne","shortName":"Capital One SavorOne","category":"card","trackable":true,"issuer":"Capital One","issuerDomain":"capitalone.com","network":"Mastercard","cardColor":"#2e7d52"}
+{"id":"card:bofa-premium-rewards","name":"BofA Premium Rewards","shortName":"BofA Premium Rewards","category":"card","trackable":true,"issuer":"Bank of America","issuerDomain":"bankofamerica.com","network":"Visa","cardColor":"#c9a84c"}
+{"id":"card:bofa-travel-rewards","name":"BofA Travel Rewards","shortName":"BofA Travel Rewards","category":"card","trackable":true,"issuer":"Bank of America","issuerDomain":"bankofamerica.com","network":"Visa","cardColor":"#c62828"}
+{"id":"card:bofa-alaska","name":"BofA Alaska Airlines Visa","shortName":"BofA Alaska Airlines Visa","category":"card","trackable":true,"issuer":"Bank of America","issuerDomain":"bankofamerica.com","network":"Visa","cardColor":"#003087"}
+{"id":"card:wf-autograph","name":"Wells Fargo Autograph","shortName":"Wells Fargo Autograph","category":"card","trackable":true,"issuer":"Wells Fargo","issuerDomain":"wellsfargo.com","network":"Visa","cardColor":"#c62828"}
+{"id":"card:wf-active-cash","name":"Wells Fargo Active Cash","shortName":"Wells Fargo Active Cash","category":"card","trackable":true,"issuer":"Wells Fargo","issuerDomain":"wellsfargo.com","network":"Visa","cardColor":"#c62828"}
+{"id":"card:discover-cashback","name":"Discover it Cash Back","shortName":"Discover it Cash Back","category":"card","trackable":true,"issuer":"Discover","issuerDomain":"discover.com","network":"Discover","cardColor":"#e65100"}
+{"id":"card:discover-miles","name":"Discover it Miles","shortName":"Discover it Miles","category":"card","trackable":true,"issuer":"Discover","issuerDomain":"discover.com","network":"Discover","cardColor":"#e65100"}
+{"id":"card:barclays-aviator-red","name":"Barclays AAdvantage Aviator Red","shortName":"Barclays AAdvantage Aviator Red","category":"card","trackable":true,"issuer":"Barclays","issuerDomain":"barclays.us","network":"Mastercard","cardColor":"#00395d"}
+{"id":"card:barclays-jetblue-plus","name":"Barclays JetBlue Plus","shortName":"Barclays JetBlue Plus","category":"card","trackable":true,"issuer":"Barclays","issuerDomain":"barclays.us","network":"Mastercard","cardColor":"#003087"}
+{"id":"card:barclays-wyndham","name":"Barclays Wyndham Rewards Earner","shortName":"Barclays Wyndham Rewards Earner","category":"card","trackable":true,"issuer":"Barclays","issuerDomain":"barclays.us","network":"Visa","cardColor":"#1a3a6b"}
+{"id":"card:usbank-altitude-reserve","name":"US Bank Altitude Reserve","shortName":"US Bank Altitude Reserve","category":"card","trackable":true,"issuer":"US Bank","issuerDomain":"usbank.com","network":"Visa","cardColor":"#1c1c1c"}
+{"id":"card:usbank-altitude-connect","name":"US Bank Altitude Connect","shortName":"US Bank Altitude Connect","category":"card","trackable":true,"issuer":"US Bank","issuerDomain":"usbank.com","network":"Visa","cardColor":"#003087"}
+{"id":"card:bilt","name":"Bilt Mastercard","shortName":"Bilt Mastercard","category":"card","trackable":true,"issuer":"Bilt","issuerDomain":"bilt.com","network":"Mastercard","cardColor":"#1c1c1c"}
+{"id":"card:apple","name":"Apple Card","shortName":"Apple Card","category":"card","trackable":true,"issuer":"Apple","issuerDomain":"apple.com","network":"Mastercard","cardColor":"#1c1c1c"}
+{"id":"card:chase-southwest-priority","name":"Chase Southwest Rapid Rewards Priority","shortName":"Chase Southwest Rapid Rewards Priority","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Visa","cardColor":"#c62828"}
+{"id":"card:chase-ihg-premier","name":"Chase IHG One Rewards Premier","shortName":"Chase IHG One Rewards Premier","category":"card","trackable":true,"issuer":"Chase","issuerDomain":"chase.com","network":"Mastercard","cardColor":"#1a3a6b"}
+{"id":"card:airfrance-klm","name":"Air France KLM World Elite Mastercard","shortName":"Air France KLM World Elite Mastercard","category":"card","trackable":true,"issuer":"Bank of America","issuerDomain":"airfranceklm.com","network":"Mastercard","cardColor":"#003087"}
+{"id":"card:hawaiian-airlines","name":"Hawaiian Airlines World Elite Mastercard","shortName":"Hawaiian Airlines World Elite Mastercard","category":"card","trackable":true,"issuer":"Barclays","issuerDomain":"hawaiianairlines.com","network":"Mastercard","cardColor":"#6b1a6b"}
